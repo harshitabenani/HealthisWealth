@@ -1,0 +1,2 @@
+# HealthisWealth
+A small application to keep your health in check. Helps you calculate your bmi, body fat as well as pace hence keeps your body in check. An application which is important in the modern world where food hogging is the new trend. Application starts with a splash screen and moves to a screen containing options for calculators. Each calculator requires few personal details and gives you the desired result. 
